@@ -15,5 +15,5 @@ if [[ $('uname') =~ "CYGWIN" ]];then
 			builtin cd "$@"
 		fi
 	}
-	alias vi='vim -u ~/.vimrc'
+	alias vi='vim'
 fi
