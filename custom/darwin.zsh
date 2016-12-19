@@ -16,6 +16,6 @@ if [[ $('uname') =~ "Darwin" ]];then
 		fi
 	}
 
-	alias vi='mvim -v'
+	alias vi='vim'
 	
 fi
